@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EjemploReciclerView</string>
+    <string name="text_p_nombre">Nombre Apellido</string>
+    <string name="text_p_telefono">tel:21222113212</string>
+    <string name="text_p_correo">correo@gmail.com</string>
+</resources>
